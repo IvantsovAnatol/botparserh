@@ -1,6 +1,6 @@
 import telebot
 
-token = '8545268244:AAGyfMZJwRQHHtB7GrS2c6jWlcw41Nj754U'
+token = ''
 id_chanel = "@parserssssq_bot"
 bot = telebot.TeleBot(token)
 
